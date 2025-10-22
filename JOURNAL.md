@@ -6,10 +6,6 @@
   ==================================================================
 -->
 
-This is my journal of the design and building process of **EspMatrixConsole**.  
-You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/360).
-
-
 ## 10/9/2025 - created the schematic  
 
 So, I started this project like 2 weeks ago and had the idea to document and make it found by hackclub. I've made a 16*16 red led matrix with 4 74HC595D to control 8 rows/columns each and to be able to use just 4 gpio pins to control the full matrix.
@@ -20,5 +16,13 @@ It was quite hard for me to chose a controller for the leds because there are so
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTI4MywicHVyIjoiYmxvYl9pZCJ9fQ==--bd851baf42f4cef5cc849107250896fb41a90e1d/image.png)
 
 
+  
+
+## 10/22/2025 - Started placing the LEDs on the PCB  
+
+It took some time placing all the LED and resistors where I wanted because there are soo many of them.
+I also asked if my schematic was OK on the hardware channel on slack, but nobody responded. I guess I'll see if it works when I'll receive it.
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDQ5MywicHVyIjoiYmxvYl9pZCJ9fQ==--3e0615e570d7f4d13b804d827fa0cb36b4be5f3c/image.png)
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDQ5NCwicHVyIjoiYmxvYl9pZCJ9fQ==--4ef4be19757b0a4bf6881ca2aa8021549ca83dee/image.png)
   
 
