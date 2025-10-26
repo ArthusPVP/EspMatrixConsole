@@ -26,3 +26,9 @@ I also asked if my schematic was OK on the hardware channel on slack, but nobody
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDQ5NCwicHVyIjoiYmxvYl9pZCJ9fQ==--4ef4be19757b0a4bf6881ca2aa8021549ca83dee/image.png)
   
 
+## 10/26/2025 - Started routing the PCB  
+
+I decided to start with the LED matrix to wire and I learned the hard way that I needed to do it for 1 LED and then copy to all rather than doing it manually for one row and then copying it. But after doing it all again 3 times, I finished wiring the matrix
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTgxNywicHVyIjoiYmxvYl9pZCJ9fQ==--e6d9d21bdab16693a06874e11f530c0c25638ebf/image.png)
+I decided to use copper regions to connect all the rows and columns and use via (not pads •`_´•) to connect to the 2 inner layers.  
+
